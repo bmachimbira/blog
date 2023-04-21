@@ -30,3 +30,5 @@ blog/blog_api/__pycache__
 *.njsproj
 *.sln
 *.sw?
+
+blog/db.sqlite3
